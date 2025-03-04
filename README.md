@@ -14,17 +14,17 @@ Step 3: Run the command python personal-api.py and check the details:
 ![image](https://github.com/user-attachments/assets/49ed1304-c05f-4e46-97e0-b0d9725c39b2)
 
 Step 4: Run --> docker build -t personal-api .
-![image](https://github.com/user-attachments/assets/c39b1e08-add4-4a6c-8802-a3c35e584652)
+![image](https://github.com/user-attachments/assets/ba1c1e48-3f26-4466-bf03-c5f18fa84e95)
 
 
 Step 5:  Run --> docker run -d -p 5000:5000 personal-api
-![image](https://github.com/user-attachments/assets/f7442135-69b7-4e1f-95ac-8141d5da8a50)
+![image](https://github.com/user-attachments/assets/c6088f15-2735-4f83-8d43-23d934e82c5a)
 
 
 Step 6: Run --> docker ps and docker images
 ![image](https://github.com/user-attachments/assets/c27ed766-afc9-41d4-ae21-45852b666edd)
 
-![image](https://github.com/user-attachments/assets/3b1e45d3-f575-4339-8efb-98dffa3a4788)
+![image](https://github.com/user-attachments/assets/7afd0142-0deb-4bb1-b1cb-6fbbaaf33058)
 
 
 Step 7: Update compose.yml file
@@ -36,7 +36,7 @@ Step 8: Run --> docker compose up and docker compose up -d
 
 ![image](https://github.com/user-attachments/assets/7a60f81d-c862-46b5-be97-00b359bfca6f)
 
-![image](https://github.com/user-attachments/assets/304e8cf3-79f3-4b30-a391-cc07d4c91a73)
+![image](https://github.com/user-attachments/assets/858486dd-d917-471f-a1b3-414f828b9d7e)
 
 
 Step 9: Test the output for me and friend
@@ -61,3 +61,6 @@ Name-registernumber-department:
 **container**
 ![image](https://github.com/user-attachments/assets/7a60f81d-c862-46b5-be97-00b359bfca6f)
 **Docker Username:vinoth001
+
+![image](https://github.com/user-attachments/assets/85e583f8-6b38-43fb-b3fc-4603bf90e623)
+
